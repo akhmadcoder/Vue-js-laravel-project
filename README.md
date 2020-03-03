@@ -1,3 +1,11 @@
+To install project to your local server:
+1) clone a project
+2) connect to db
+3) make composer install and update
+4) migrate and seed dbs
+5) 2 users have: admin@gmail.com  and user@gmail.com  and password: admin 
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
